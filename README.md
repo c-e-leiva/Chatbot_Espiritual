@@ -1,4 +1,4 @@
-# 🌱 **Chatbot Espiritual** 🧘‍♂️
+# 🤖 **Chatbot Espiritual** 🧘‍♂️
 
 ## Índice
 

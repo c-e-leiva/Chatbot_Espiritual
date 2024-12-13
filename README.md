@@ -25,13 +25,13 @@ El proyecto "Chatbot Espiritual" tiene como objetivo proporcionar una experienci
 
 El chatbot está diseñado para fomentar una desconexión de la tecnología centrada en la lógica y el análisis, ofreciendo en su lugar una perspectiva filosófica y espiritual. El proyecto se utiliza como un recurso inspirador y orientador para quienes buscan un momento de paz y sabiduría. No tiene la intención de modificar ni ofender las enseñanzas budistas, sino de servir como una herramienta de reflexión.
 
-## Objetivo 🎯
+## Objetivo🎯
 
 El propósito de este chatbot es ofrecer respuestas basadas en citas de Buda que se alineen con preguntas sobre temas de vida, felicidad, sufrimiento, y otros aspectos espirituales y reflexivos. Al responder a las consultas, el chatbot utiliza citas de Buda clasificadas por categorías temáticas, garantizando que las respuestas sean tanto relevantes como profundas.
 
 Este proyecto proporciona una pausa espiritual y filosófica, permitiendo a los usuarios reflexionar sobre las enseñanzas de Buda de manera accesible y respetuosa.
 
-## Proceso de Desarrollo 🔧
+## Proceso de Desarrollo🔧
 
 ### Recolección y Preparación de Datos 📊
 - Se recopiló el dataset "Buddha Quotes with Sentiments", que incluye citas en inglés junto con sus sentimientos correspondientes.

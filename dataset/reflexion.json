@@ -1,0 +1,139 @@
+// reflexión
+[
+    {
+        "cita": "Al final, solo tres cosas son importantes: cuánto amaste, cuán suavemente viviste y cuán graciosamente dejaste ir cosas que no son para ti.",
+        "preguntas": [
+            "¿Cómo puedo amar más en mi vida?",
+            "¿Qué significa vivir suavemente?",
+            "¿Cómo dejar ir lo que no es para mí?"
+        ]
+    },
+    {
+        "cita": "No te apresures a nada. Cuando sea el momento adecuado, sucederá.",
+        "preguntas": [
+            "¿Por qué es importante no apresurarse?",
+            "¿Cómo saber cuándo es el momento adecuado?",
+            "¿Qué significa tener paciencia en la vida?"
+        ]
+    },
+    {
+        "cita": "Cuando duele, observa. La vida está tratando de enseñarte algo.",
+        "preguntas": [
+            "¿Qué debo aprender del dolor?",
+            "¿Cómo puedo observar mis experiencias dolorosas?",
+            "¿Por qué el dolor es parte del aprendizaje?"
+        ]
+    },
+    {
+        "cita": "Un momento puede cambiar un día, un día puede cambiar una vida, y una vida puede cambiar el mundo.",
+        "preguntas": [
+            "¿Cómo puede un momento cambiar mi vida?",
+            "¿Qué puedo hacer hoy para impactar el futuro?",
+            "¿Por qué los pequeños momentos son importantes?"
+        ]
+    },
+    {
+        "cita": "El problema es que crees que tienes tiempo.",
+        "preguntas": [
+            "¿Cómo puedo aprovechar mejor mi tiempo?",
+            "¿Por qué a menudo creemos que hay tiempo suficiente?",
+            "¿Qué significa vivir en el presente?"
+        ]
+    },
+    {
+        "cita": "Estar donde estás.",
+        "preguntas": [
+            "¿Cómo puedo estar más presente?",
+            "¿Qué significa estar en el momento?",
+            "¿Por qué es importante estar aquí y ahora?"
+        ]
+    },
+    {
+        "cita": "La felicidad no depende de lo que tienes o de quién eres. Se basa únicamente en lo que piensas.",
+        "preguntas": [
+            "¿Cómo influye mi pensamiento en mi felicidad?",
+            "¿Puede cambiar mi felicidad si cambio mis pensamientos?",
+            "¿Por qué la felicidad es una elección?"
+        ]
+    },
+    {
+        "cita": "No veré el tazón de otro intentando encontrar una falla; es un entrenamiento que se debe observar.",
+        "preguntas": [
+            "¿Cómo puedo evitar juzgar a los demás?",
+            "¿Por qué es importante observar en lugar de criticar?",
+            "¿Qué significa entrenar mi mente para ser más comprensivo?"
+        ]
+    },
+    {
+        "cita": "Cualquiera que sean las palabras que pronunciemos con cuidado para las personas, las oirán y serán influenciadas por ellas para bien o para mal.",
+        "preguntas": [
+            "¿Por qué mis palabras son poderosas?",
+            "¿Cómo puedo comunicarme de manera más positiva?",
+            "¿Qué impacto tienen mis palabras en los demás?"
+        ]
+    },
+    {
+        "cita": "Ardentemente haz hoy lo que se debe hacer. ¿Quién sabe? Mañana llega la muerte.",
+        "preguntas": [
+            "¿Qué debo hacer hoy para vivir plenamente?",
+            "¿Por qué es importante actuar ahora?",
+            "¿Cómo la muerte afecta mi perspectiva de la vida?"
+        ]
+    },
+    {
+        "cita": "Si los pensamientos de un hombre están nublados, si es imprudente y está lleno de engaños, ¿cómo puede usar la túnica amarilla? Quien sea maestro de su propia naturaleza, brillante, clara y verdadera, puede usar la túnica amarilla.",
+        "preguntas": [
+            "¿Cómo puedo ser maestro de mi propia naturaleza?",
+            "¿Qué significa tener claridad mental?",
+            "¿Por qué es importante ser honesto conmigo mismo?"
+        ]
+    },
+    {
+        "cita": "Como una flor fina, hermosa a la vista, pero sin aroma, las palabras finas son infructuosas en un hombre que no actúa de acuerdo con ellas.",
+        "preguntas": [
+            "¿Qué significa actuar según mis palabras?",
+            "¿Por qué mis acciones son más importantes que mis palabras?",
+            "¿Cómo puedo ser coherente entre lo que digo y lo que hago?"
+        ]
+    },
+    {
+        "cita": "Así como una serpiente arroja su piel, debemos despojarnos de nuestro pasado una y otra vez.",
+        "preguntas": [
+            "¿Cómo puedo liberarme de mi pasado?",
+            "¿Por qué es importante dejar ir viejas heridas?",
+            "¿Qué significa renovarse continuamente?"
+        ]
+    },
+    {
+        "cita": "Para vivir una vida pura y desinteresada, no debemos contarnos como propios en medio de la abundancia.",
+        "preguntas": [
+            "¿Cómo puedo vivir sin apego?",
+            "¿Por qué es importante ser desinteresado?",
+            "¿Qué significa vivir en abundancia sin poseer?"
+        ]
+    },
+    {
+        "cita": "En la separación se encuentra la mayor miseria del mundo.",
+        "preguntas": [
+            "¿Cómo afecta la separación a la felicidad?",
+            "¿Qué puedo hacer para sentirme más conectado?",
+            "¿Por qué la conexión es fundamental para la felicidad?"
+        ]
+    },
+    {
+        "cita": "Las personas con opiniones simplemente se molestan mutuamente.",
+        "preguntas": [
+            "¿Por qué las opiniones pueden causar conflictos?",
+            "¿Cómo puedo manejar mis propias opiniones?",
+            "¿Es posible convivir con diferentes puntos de vista?"
+        ]
+    },
+    {
+        "cita": "No sobrevalores lo que has recibido, ni envidies a otros. El que envidia a los demás no obtiene tranquilidad.",
+        "preguntas": [
+            "¿Cómo puedo dejar de sentir envidia?",
+            "¿Por qué es importante valorar lo que tengo?",
+            "¿Cómo la envidia afecta mi paz interior?"
+        ]
+    }
+]

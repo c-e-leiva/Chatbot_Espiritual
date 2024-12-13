@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHATBOT ESPIRITUAL</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url("{{ url_for('static', filename='img/1.jpg') }}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .input-box {
+            background-color: rgba(193, 247, 254, 0.8);
+            border: 1px solid #007bff;
+            border-radius: 5px;
+            padding: 10px;
+            height: 38px;
+            flex: 1;
+        }
+
+        .btn-send, .btn-microphone {
+            height: 38px;
+            border-radius: 5px;
+            margin-left: 5px;
+        }
+
+        .output-box {
+            background-color: rgba(255, 255, 255, 0.5);
+            border-radius: 5px;
+            padding: 10px;
+            width: 700px;
+            height: 400px;
+            overflow-y: auto;
+            margin: 0 auto 10px;
+            text-align: left;
+        }
+
+        .input-container {
+            display: flex;
+            align-items: center;
+            width: 700px;
+            justify-content: center;
+            margin: 0 auto;
+        }
+
+        .black-container {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            align-items: flex-end;
+        }
+
+        .wave {
+            width: 10px;
+            height: 0;
+            background-color: #007bff;
+            margin: 0 2px;
+            border-radius: 5px;
+        }
+
+        .playing .wave {
+            animation: wave-animation 0.5s infinite;
+        }
+
+        @keyframes wave-animation {
+            0%, 100% {
+                height: 20px;
+            }
+            50% {
+                height: 50px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container text-center">
+        <h2 class="mb-4 fw-bold">🤖 CHATBOT ESPIRITUAL - CITAS DE BUDA 🧘‍♂️</h2>
+        <div class="output-box" id="output-box"></div>
+
+        <form id="chat-form" class="input-container">
+            <input type="text" name="question" class="input-box" placeholder="Escribe sobre que quieres profundizar..." required autocomplete="off" />
+            <button type="submit" class="btn btn-primary btn-send">ENVIAR</button>
+            <button type="button" class="btn btn-secondary btn-microphone">🎤</button>
+        </form>
+
+        <div class="black-container" id="vumetro">
+            <div class="wave"></div>
+            <div class="wave"></div>
+            <div class="wave"></div>
+            <div class="wave"></div>
+            <div class="wave"></div>
+            <div class="wave"></div>
+        </div>
+    </div>
+
+    <script>
+        // Función para leer el texto en voz alta usando Google Cloud TTS
+        function speakText(text) {
+            fetch('/get_audio', {  // Ruta en Flask para manejar la conversión a voz
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ text: text })
+            })
+            .then(response => response.blob())
+            .then(audioBlob => {
+                const audioUrl = URL.createObjectURL(audioBlob);
+                const audio = new Audio(audioUrl);
+                audio.play().catch(error => {
+                    console.error("Error al reproducir el audio: ", error);
+                });
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+
+        // Simulación de vumetro
+        function playSound() {
+            const vumetro = document.getElementById('vumetro');
+            vumetro.classList.add('playing');
+            setTimeout(() => vumetro.classList.remove('playing'), 1000);
+        }
+
+        // Función para activar el reconocimiento de voz
+        function startVoiceRecognition() {
+            // Verificar si la API SpeechRecognition está disponible
+            if (!('SpeechRecognition' in window || 'webkitSpeechRecognition' in window)) {
+                alert('La API de reconocimiento de voz no está soportada en tu navegador.');
+                return;
+            }
+
+            const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+            recognition.lang = 'es-ES';
+            recognition.continuous = false;
+            recognition.interimResults = false;
+
+            // Iniciar el reconocimiento de voz
+            recognition.start();
+            console.log('Reconocimiento de voz iniciado.');
+
+            recognition.onresult = function(event) {
+                const question = event.results[0][0].transcript;
+                console.log('Reconocimiento de voz resultó en: ', question);
+                document.querySelector('input[name="question"]').value = question;
+                document.getElementById('chat-form').dispatchEvent(new Event('submit'));
+            };
+
+            recognition.onerror = function(event) {
+                console.error('Error en el reconocimiento de voz:', event.error);
+            };
+
+            recognition.onend = function() {
+                console.log('Reconocimiento de voz finalizado.');
+            };
+        }
+
+        // Activar la grabación de voz
+        document.querySelector('.btn-microphone').addEventListener('click', function() {
+            startVoiceRecognition();
+        });
+
+        // Enviar el formulario sin recargar la página
+        document.getElementById('chat-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            playSound();
+
+            const question = event.target.question.value;
+            const outputBox = document.getElementById('output-box');
+
+            // Mostrar la pregunta del usuario en la interfaz
+            outputBox.innerHTML += `<p><strong>Yo:</strong> ${question}</p>`;
+
+            fetch('/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                body: new URLSearchParams({ 'question': question })
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Mostrar la respuesta del chatbot en la interfaz
+                outputBox.innerHTML += `<p><strong>Chatbot:</strong> ${data.response}</p>`;
+                event.target.question.value = ''; // Limpiar el campo de entrada
+                
+                // Reproducir la respuesta del chatbot
+                speakText(data.response);
+            })
+            .catch(error => {
+                outputBox.innerHTML += `<p><strong>Error:</strong> No se pudo obtener la respuesta.</p>`;
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

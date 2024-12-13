@@ -1,0 +1,89 @@
+// felicidad
+{
+    // Cita 1
+    "cita": "La felicidad nunca llegará a quienes no aprecian lo que ya tienen.",
+    "preguntas": [
+        "¿Cómo ser feliz?",
+        "¿Cómo apreciar lo que tengo?",
+        "¿Qué me impide ser feliz?",
+        "¿Es importante valorar lo que tengo?",
+        "¿Por qué no soy feliz?"
+    ]
+},
+{
+    // Cita 2
+    "cita": "La felicidad viene cuando tu trabajo y tus palabras son beneficiosos para ti y para los demás.",
+    "preguntas": [
+        "¿Cómo ser feliz en mi vida diaria?",
+        "¿Cómo ayudar a otros me hace feliz?",
+        "¿Qué puedo hacer para ser feliz?",
+        "¿Por qué ayudar trae felicidad?",
+        "¿Cómo influyen mis palabras en mi felicidad?"
+    ]
+},
+{
+    // Cita 3
+    "cita": "Quien actúa sobre la verdad es feliz en este mundo y más allá.",
+    "preguntas": [
+        "¿Por qué la verdad me hace feliz?",
+        "¿Cómo me ayuda la honestidad a ser feliz?",
+        "¿Qué relación tiene la verdad con la felicidad?",
+        "¿Ser honesto me hará feliz?",
+        "¿Por qué actuar con verdad es importante?"
+    ]
+},
+{
+    // Cita 4
+    "cita": "Estás lejos del final del viaje. El camino no está en el cielo. El camino está en el corazón. Mira cómo amas.",
+    "preguntas": [
+        "¿Dónde encuentro la felicidad?",
+        "¿El amor es parte de la felicidad?",
+        "¿Qué es el camino hacia la felicidad?",
+        "¿Cómo puedo encontrar el camino?",
+        "¿Dónde busco la felicidad?"
+    ]
+},
+{
+    // Cita 5
+    "cita": "Así como una madre protegería a su único hijo con su vida, cultiva un amor ilimitado hacia todos los seres.",
+    "preguntas": [
+        "¿Cómo el amor me hace feliz?",
+        "¿Qué es el amor ilimitado?",
+        "¿Por qué es importante amar a los demás?",
+        "¿Cómo cultivar amor hacia todos?",
+        "¿Es el amor la clave de la felicidad?"
+    ]
+},
+{
+    // Cita 6
+    "cita": "Al final del día, estoy en paz porque mis intenciones son buenas y mi corazón es puro.",
+    "preguntas": [
+        "¿Cómo tener paz al final del día?",
+        "¿Las buenas intenciones me dan paz?",
+        "¿Cómo puedo tener paz conmigo mismo?",
+        "¿Qué es la paz interior?",
+        "¿Por qué la pureza de corazón es importante?"
+    ]
+},
+{
+    // Cita 7
+    "cita": "Para cuidar de la madre y el padre, apreciar a la esposa e hijos, y participar en una ocupación pacífica, esta es la mayor bendición.",
+    "preguntas": [
+        "¿Cómo encontrar felicidad en la familia?",
+        "¿Por qué cuidar de la familia trae paz?",
+        "¿Qué es la mayor bendición?",
+        "¿La paz en casa me hace feliz?",
+        "¿Cómo aprecio a mi familia?"
+    ]
+},
+{
+    // Cita 8
+    "cita": "La amistad es la única cura para el odio, la única garantía de paz.",
+    "preguntas": [
+        "¿Cómo la amistad trae felicidad?",
+        "¿Por qué la amistad es importante?",
+        "¿La amistad me ayuda a estar en paz?",
+        "¿Cómo la amistad cura el odio?",
+        "¿Cómo encuentro paz en la amistad?"
+    ]
+}

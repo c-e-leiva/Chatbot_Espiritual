@@ -1,0 +1,147 @@
+// compasión
+[
+    {
+        "cita": "Todo sufrimiento es causado por la ignorancia. La gente inflige dolor a los demás en la búsqueda egoísta de su propia felicidad o satisfacción.",
+        "preguntas": [
+            "¿Cómo puedo ser más consciente de mi impacto en los demás?",
+            "¿Qué significa sufrir por ignorancia?",
+            "¿Cómo puedo evitar causar dolor a otros en mi búsqueda de felicidad?"
+        ]
+    },
+    {
+        "cita": "Si supiera lo que sé sobre el poder de dar, no dejaría pasar una sola comida sin compartirla de alguna manera.",
+        "preguntas": [
+            "¿Qué significa realmente el poder de dar?",
+            "¿Cómo puedo integrar más el compartir en mi vida diaria?",
+            "¿Por qué es importante dar, incluso en pequeñas cantidades?"
+        ]
+    },
+    {
+        "cita": "Da, incluso si solo tienes un poco.",
+        "preguntas": [
+            "¿Por qué es significativo dar lo que tengo, aunque sea poco?",
+            "¿Cómo se siente al compartir algo, aunque sea mínimo?",
+            "¿Qué tipo de impacto puede tener un pequeño acto de generosidad?"
+        ]
+    },
+    {
+        "cita": "Solo pierdes lo que te aferras.",
+        "preguntas": [
+            "¿Qué cosas en mi vida estoy aferrándome que me están causando pérdida?",
+            "¿Cómo puedo aprender a soltar?",
+            "¿Por qué aferrarse puede ser perjudicial?"
+        ]
+    },
+    {
+        "cita": "Miles de velas pueden encenderse desde una sola vela, y la vida de la vela no se acortará. La felicidad nunca disminuye por ser compartida.",
+        "preguntas": [
+            "¿Cómo puede mi felicidad aumentar al compartirla?",
+            "¿Qué significa para mí compartir mi alegría con los demás?",
+            "¿Cómo puedo ser una fuente de luz para otros?"
+        ]
+    },
+    {
+        "cita": "Si enciendes una lámpara para otra persona, también alegrarás su camino.",
+        "preguntas": [
+            "¿Cómo puedo ayudar a iluminar el camino de alguien más?",
+            "¿Por qué es importante ayudar a los demás a encontrar su camino?",
+            "¿Qué significa contribuir al bienestar de los demás?"
+        ]
+    },
+    {
+        "cita": "Ni el fuego, ni el viento, el nacimiento, ni la muerte pueden borrar nuestras buenas obras.",
+        "preguntas": [
+            "¿Por qué las buenas acciones son eternas?",
+            "¿Cómo pueden mis acciones tener un impacto duradero?",
+            "¿Qué legado quiero dejar a través de mis acciones?"
+        ]
+    },
+    {
+        "cita": "Si no cuidamos a los demás cuando necesitan ayuda, ¿quién nos cuidará?",
+        "preguntas": [
+            "¿Cómo puedo ser más atento a las necesidades de los demás?",
+            "¿Por qué es importante cuidar de los otros?",
+            "¿Cómo se refleja la ayuda mutua en la comunidad?"
+        ]
+    },
+    {
+        "cita": "El odio no cesa con el odio, sino solo por el amor.",
+        "preguntas": [
+            "¿Por qué el amor es una respuesta más poderosa que el odio?",
+            "¿Cómo puedo cultivar el amor en lugar del odio en mi vida?",
+            "¿Qué significa amar en situaciones difíciles?"
+        ]
+    },
+    {
+        "cita": "Puedes buscar en todo el universo a alguien que merezca más tu amor y afecto que tú mismo, y esa persona no se encontrará en ningún lado. Tú mismo, tanto como cualquiera en todo el universo, mereces tu amor y afecto.",
+        "preguntas": [
+            "¿Cómo puedo aprender a amarme más a mí mismo?",
+            "¿Por qué es importante reconocer mi propio valor?",
+            "¿Cómo puede el amor propio mejorar mis relaciones con los demás?"
+        ]
+    },
+    {
+        "cita": "El verdadero amor nace de la comprensión.",
+        "preguntas": [
+            "¿Qué significa comprender a alguien profundamente?",
+            "¿Cómo puedo practicar la comprensión en mis relaciones?",
+            "¿Por qué la comprensión es esencial para el amor verdadero?"
+        ]
+    },
+    {
+        "cita": "Si tu compasión no incluye a ti mismo, está incompleta.",
+        "preguntas": [
+            "¿Cómo puedo ser compasivo conmigo mismo?",
+            "¿Por qué es importante incluirme en mi compasión?",
+            "¿Qué significa tener una compasión equilibrada?"
+        ]
+    },
+    {
+        "cita": "Tener compasión por todos los seres, ricos y pobres.",
+        "preguntas": [
+            "¿Cómo puedo cultivar la compasión hacia todos, independientemente de su situación?",
+            "¿Por qué es importante ver a todos los seres como iguales?",
+            "¿Cómo puede la compasión cambiar mi percepción del mundo?"
+        ]
+    },
+    {
+        "cita": "Enseña esta triple verdad a todos: un corazón generoso, un discurso amable y una vida de servicio y compasión son las cosas que renuevan a la humanidad.",
+        "preguntas": [
+            "¿Cómo puedo practicar la generosidad en mi vida diaria?",
+            "¿Qué significa hablar con amabilidad?",
+            "¿Por qué el servicio a los demás es vital para la humanidad?"
+        ]
+    },
+    {
+        "cita": "A medida que la lluvia cae por igual sobre el justo y el injusto, no cargues tu corazón con juicio, sino que deja que tu amabilidad llueva por igual.",
+        "preguntas": [
+            "¿Cómo puedo ser más amable en situaciones difíciles?",
+            "¿Por qué es importante evitar el juicio?",
+            "¿Cómo puede la amabilidad influir en mis interacciones diarias?"
+        ]
+    },
+    {
+        "cita": "Por el bien de los muchos, por la felicidad de los muchos, actúa con compasión hacia el mundo.",
+        "preguntas": [
+            "¿Cómo puedo contribuir a la felicidad de los demás?",
+            "¿Qué significa actuar con compasión a gran escala?",
+            "¿Cómo la compasión beneficia a la comunidad?"
+        ]
+    },
+    {
+        "cita": "Cualquiera que sean los seres vivos—ya sean débiles o fuertes, largos, robustos o de tamaño mediano, cortos, pequeños, grandes, visibles o invisibles, aquellos que viven lejos o cerca, aquellos que nacen y los que aún no han nacido—todos los seres tienen mentes que pueden ser felices.",
+        "preguntas": [
+            "¿Cómo puedo ser más compasivo hacia todos los seres vivos?",
+            "¿Por qué es importante reconocer la capacidad de felicidad en todos?",
+            "¿Cómo puede la compasión hacia los seres vivos enriquecer mi vida?"
+        ]
+    },
+    {
+        "cita": "Silencia al hombre enojado con amor. Silencia al hombre malhumorado con amabilidad. Silencia al avaro con generosidad. Silencia al mentiroso con la verdad.",
+        "preguntas": [
+            "¿Cómo puedo responder al enojo con amor?",
+            "¿Por qué es importante ser amable en situaciones de conflicto?",
+            "¿Qué significa ser generoso y honesto ante los demás?"
+        ]
+    }
+]

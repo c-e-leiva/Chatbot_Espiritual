@@ -1,0 +1,109 @@
+// práctica (meditación y enseñanzas)
+[
+    {
+        "cita": "Todas las mañanas nacemos de nuevo. Lo que hacemos hoy es lo que más importa.",
+        "preguntas": [
+            "¿Cómo puedo empezar hoy con una mente fresca?",
+            "¿Qué acciones son más importantes para mí hoy?",
+            "¿Cómo puedo vivir en el presente?"
+        ]
+    },
+    {
+        "cita": "El cambio nunca es doloroso. Solo la resistencia al cambio es dolorosa.",
+        "preguntas": [
+            "¿Qué cambios estoy evitando?",
+            "¿Cómo puedo aceptar mejor el cambio?",
+            "¿Qué aprendí de los cambios pasados?"
+        ]
+    },
+    {
+        "cita": "Medita... no te demores, para que no te arrepientas más tarde.",
+        "preguntas": [
+            "¿Por qué procrastino la meditación?",
+            "¿Qué me impide meditar hoy?",
+            "¿Cómo puedo hacer de la meditación un hábito?"
+        ]
+    },
+    {
+        "cita": "Deleita en la meditación y la soledad. Céntrate, sé feliz. Eres un buscador.",
+        "preguntas": [
+            "¿Qué disfruto de la meditación?",
+            "¿Cómo puedo estar más cómodo conmigo mismo?",
+            "¿Qué estoy buscando en mi práctica?"
+        ]
+    },
+    {
+        "cita": "Medita. Vive puramente. Tranquilízate. Haz tu trabajo con maestría. Como la luna, ¡sal de detrás de las nubes! ¡Brilla!",
+        "preguntas": [
+            "¿Qué significa vivir puramente para mí?",
+            "¿Cómo puedo brillar en mis acciones diarias?",
+            "¿Cómo puedo mejorar mi enfoque?"
+        ]
+    },
+    {
+        "cita": "Si estás lo suficientemente callado, escucharás el flujo del universo. Sentirás su ritmo. Ve con este flujo. La felicidad está por delante. La meditación es clave.",
+        "preguntas": [
+            
+            "¿Cómo puedo encontrar silencio en mi vida?",
+            "como meditar",
+            "¿Qué significa fluir con la vida?",
+            "¿Cómo me ayuda la meditación a ser feliz?"
+        ]
+    },
+    {
+        "cita": "La meditación trae sabiduría.",
+        "preguntas": [
+            "¿Qué sabiduría he ganado al meditar?",
+            "¿Cómo puedo aplicar esta sabiduría?",
+            "¿Por qué es importante meditar?"
+        ]
+    },
+    {
+        "cita": "Si meditas seriamente, puro en mente y amable en los hechos, llevando una vida disciplinada en armonía con el Dharma, crecerás en gloria.",
+        "preguntas": [
+            "¿Cómo puedo vivir en armonía con el Dharma?",
+            "¿Qué significa para mí la disciplina en la meditación?",
+            "¿Cómo puedo crecer en mi práctica?"
+        ]
+    },
+    {
+        "cita": "Si meditas con seriedad, a través de disciplinas espirituales, puedes crear una isla que no será abrumada por ninguna inundación.",
+        "preguntas": [
+            "¿Cómo puedo encontrar estabilidad a través de la meditación?",
+            "¿Qué representa mi 'isla' personal?",
+            "¿Cómo puedo protegerme de las emociones abrumadoras?"
+        ]
+    },
+    {
+        "cita": "La resistencia es una de las disciplinas más difíciles, pero es para quienes la soportan la que lleva a la victoria final.",
+        "preguntas": [
+            "¿Cómo enfrento la resistencia en mi vida?",
+            "¿Qué victoria quiero lograr con disciplina?",
+            "¿Por qué debo perseverar?"
+        ]
+    },
+    {
+        "cita": "Evita los actos malvados como un hombre que ama la vida evita el veneno.",
+        "preguntas": [
+            "¿Qué 'venenos' debo evitar?",
+            "¿Cómo reconozco actos malvados?",
+            "¿Por qué es importante protegerme de lo negativo?"
+        ]
+    },
+    {
+        "cita": "Si algo vale la pena hacerlo, hazlo con todo tu corazón.",
+        "preguntas": [
+            "¿Qué acciones merecen mi dedicación?",
+            "¿Cómo puedo comprometerme más?",
+            "¿Qué significa para mí hacer algo con pasión?"
+        ]
+    },
+    {
+        "cita": "El caos es inherente a las cosas compuestas. Esfuérzate con diligencia.",
+        "preguntas": [
+            "¿Cómo encuentro orden en el caos?",
+            "¿Qué significa esforzarme diligentemente?",
+            "¿Cómo me ayuda la diligencia a avanzar?"
+        ]
+    }
+]

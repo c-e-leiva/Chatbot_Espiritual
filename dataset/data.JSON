@@ -1,0 +1,818 @@
+[
+    {
+        "cita": "La felicidad nunca llegará a quienes no aprecian lo que ya tienen.",
+        "preguntas": [
+            "¿Cómo ser feliz?",
+            "¿Cómo apreciar lo que tengo?",
+            "¿Qué me impide ser feliz?",
+            "¿Es importante valorar lo que tengo?",
+            "¿Por qué no soy feliz?"
+        ]
+    },
+    {
+        "cita": "La felicidad viene cuando tu trabajo y tus palabras son beneficiosos para ti y para los demás.",
+        "preguntas": [
+            "¿Cómo ser feliz en mi vida diaria?",
+            "¿Cómo ayudar a otros me hace feliz?",
+            "¿Qué puedo hacer para ser feliz?",
+            "¿Por qué ayudar trae felicidad?",
+            "¿Cómo influyen mis palabras en mi felicidad?"
+        ]
+    },
+    {
+        "cita": "Quien actúa sobre la verdad es feliz en este mundo y más allá.",
+        "preguntas": [
+            "¿Por qué la verdad me hace feliz?",
+            "¿Cómo me ayuda la honestidad a ser feliz?",
+            "¿Qué relación tiene la verdad con la felicidad?",
+            "¿Ser honesto me hará feliz?",
+            "¿Por qué actuar con verdad es importante?"
+        ]
+    },
+    {
+        "cita": "Estás lejos del final del viaje. El camino no está en el cielo. El camino está en el corazón. Mira cómo amas.",
+        "preguntas": [
+            "¿Dónde encuentro la felicidad?",
+            "¿cual es el camino?",
+            "¿El amor es parte de la felicidad?",
+            "¿Qué es el camino hacia la felicidad?",
+            "¿Cómo puedo encontrar el camino?",
+            "¿Dónde busco la felicidad?"
+        ]
+    },
+    {
+        "cita": "Así como una madre protegería a su único hijo con su vida, cultiva un amor ilimitado hacia todos los seres.",
+        "preguntas": [
+            "¿Cómo el amor me hace feliz?",
+            "¿Qué es el amor ilimitado?",
+            "que es el amor",
+            "amor por el hijo",
+            "amor por la hija",
+            "¿Cual es la representacion del amor",
+            "¿Por qué es importante amar a los demás?",
+            "¿Cómo cultivar amor hacia todos?",
+            "¿Es el amor la clave de la felicidad?"
+        ]
+    },
+    {
+        "cita": "Al final del día, estoy en paz porque mis intenciones son buenas y mi corazón es puro.",
+        "preguntas": [
+            "¿Cómo tener paz al final del día?",
+            "¿Las buenas intenciones me dan paz?",
+            "¿Cómo puedo tener paz conmigo mismo?",
+            "¿Qué es la paz interior?",
+            "¿Por qué la pureza de corazón es importante?"
+        ]
+    },
+    {
+        "cita": "Para cuidar de la madre y el padre, apreciar a la esposa e hijos, y participar en una ocupación pacífica, esta es la mayor bendición.",
+        "preguntas": [
+            "¿Cómo encontrar felicidad en la familia?",
+            "¿Por qué cuidar de la familia trae paz?",
+            "¿Qué es la mayor bendición?",
+            "¿La paz en casa me hace feliz?",
+            "¿Cómo aprecio a mi familia?"
+        ]
+    },
+    {
+        "cita": "La amistad es la única cura para el odio, la única garantía de paz.",
+        "preguntas": [
+            "¿Cómo la amistad trae felicidad?",
+            "¿Por qué la amistad es importante?",
+            "¿La amistad me ayuda a estar en paz?",
+            "¿Cómo la amistad cura el odio?",
+            "¿Cómo encuentro paz en la amistad?"
+        ]
+    },
+    {
+        "cita": "Si quieres volar, renuncia a todo lo que te pesa.",
+        "preguntas": [
+            "¿Qué cargas debo soltar?",
+            "como soltar",
+            "¿Cómo me libero de lo que me pesa?",
+            "¿Qué significa volar para mí?"
+        ]
+    },
+    {
+        "cita": "Detente, detente. No hables. La verdad definitiva ni siquiera es algo que se puede pensar.",
+        "preguntas": [
+            "¿Cuándo debo detenerme?",
+            "como parar",
+            "¿Qué verdades siento sin necesidad de hablar?",
+            "¿Cómo encuentro el silencio interior?"
+        ]
+    },
+    {
+        "cita": "La paz viene de adentro. No la busques fuera.",
+        "preguntas": [
+            "¿Cómo cultivo la paz interna?",
+            "como encontar paz",
+            "como encuentro la paz",
+            "que es la paz",
+            "¿Qué me distrae de encontrar mi paz?",
+            "¿Qué prácticas me acercan a la paz?"
+        ]
+    },
+    {
+        "cita": "Aquellos que están libres de pensamientos resentidos seguramente encontrarán paz.",
+        "preguntas": [
+            "¿Qué resentimientos debo dejar ir?",
+            "que es el resentimiento",
+            "¿Cómo reconozco mis pensamientos resentidos?",
+            "¿Qué beneficios trae la paz interior?"
+        ]
+    },
+    {
+        "cita": "Mejor que mil palabras huecas es una palabra que trae paz.",
+        "preguntas": [
+            "¿Qué palabras traen paz a mi vida?",
+            "palabras",
+            "¿Cómo elijo mis palabras con sabiduría?",
+            "¿Qué significa hablar con intención?"
+        ]
+    },
+    {
+        "cita": "En lo que piensas, te conviertes. Lo que sientes, atraes. Lo que imaginas, creas.",
+        "preguntas": [
+            "¿Cómo influye lo que pienso en mi vida?",
+            "¿Por qué es importante lo que siento?",
+            "que somos",
+            "¿Cómo puedo crear mi propia realidad?"
+        ]
+    },
+    {
+        "cita": "Antes de hablar, deja que tus palabras pasen a través de tres puertas: ¿es cierto? ¿Es necesario? ¿Es amable?",
+        "preguntas": [
+            "¿Cómo puedo hablar con más sabiduría?",
+            "¿Cómo saber si debo decir algo?",
+            "¿Por qué es importante pensar antes de hablar?"
+        ]
+    },
+    {
+        "cita": "La pureza o la impureza depende de uno mismo; nadie puede purificar a otro.",
+        "preguntas": [
+            "¿Cómo puedo alcanzar la pureza?",
+            "como ser puro",
+            "¿Es posible que alguien más me purifique?",
+            "¿Por qué depende de mí ser puro?"
+        ]
+    },
+    {
+        "cita": "Entender todo es perdonar todo.",
+        "preguntas": [
+            "¿Cómo puedo perdonar a otros?",
+            "como perdonar",
+            "¿Por qué el entendimiento lleva al perdón?",
+            "¿Es necesario comprender para perdonar?"
+        ]
+    },
+    {
+        "cita": "Todo lo que somos es el resultado de lo que hemos pensado.",
+        "preguntas": [
+            "¿Cómo influyen mis pensamientos en mi vida?",
+            "¿Soy el resultado de mis pensamientos?",
+            "que es el pensamiento",
+            "¿El amor es parte de la felicidad?",
+            "¿Por qué es importante lo que pienso?"
+        ]
+    },
+    {
+        "cita": "Tres cosas no pueden estar ocultas durante mucho tiempo: el sol, la luna y la verdad.",
+        "preguntas": [
+            "¿Por qué la verdad siempre se descubre?",
+            "¿Es posible ocultar la verdad?",
+            "el tiempo",
+            "¿Qué significa que la verdad no se oculta?"
+        ]
+    },
+    {
+        "cita": "Nunca veo lo que se ha hecho.",
+        "preguntas": [
+            "¿Por qué mirar solo hacia adelante?",
+            "¿Es importante soltar el pasado?",
+            "¿Cómo puedo vivir sin pensar en el pasado?"
+        ]
+    },
+    {
+        "cita": "No hables del pasado, no sueñes con el futuro; concéntrate en el momento presente.",
+        "preguntas": [
+            "¿Cómo puedo vivir en el presente?",
+            "olvidar el pasado",
+            "¿Por qué no pensar en el pasado o el futuro?",
+            "¿Es el presente lo único que importa?"
+        ]
+    },
+    {
+        "cita": "Resuelve tu propia salvación. No dependas de los demás.",
+        "preguntas": [
+            "¿Cómo puedo salvarme a mí mismo?",
+            "¿Por qué no debo depender de otros?",
+            "¿Qué significa buscar mi propia salvación?"
+        ]
+    },
+    {
+        "cita": "Todo lo que tiene un comienzo tiene un final. Haz las paces con eso y todo estará bien.",
+        "preguntas": [
+            "¿Cómo aceptar el final de las cosas?",
+            "¿Por qué es importante aceptar los finales?",
+            "¿Cómo encuentro paz con el ciclo de la vida?"
+        ]
+    },
+    {
+        "cita": "El secreto de la salud, tanto para la mente como para el cuerpo, no es llorar por el pasado ni preocuparse por el futuro, sino vivir el momento presente sabiamente y sinceramente.",
+        "preguntas": [
+            "¿Cómo puedo cuidar mi salud mental?",
+            "el secreto",
+            "saludable",
+            "¿Es el presente lo más importante para la salud?",
+            "¿Por qué es importante no preocuparse por el pasado o el futuro?"
+        ]
+    },
+    {
+        "cita": "Conquistarse a uno mismo es una tarea mayor que conquistar a los demás.",
+        "preguntas": [
+            "¿Por qué es importante dominarme a mí mismo?",
+            "¿Es más difícil conquistarme a mí mismo?",
+            "¿Cómo puedo lograr control sobre mí mismo?"
+        ]
+    },
+    {
+        "cita": "Si pudiéramos ver claramente el milagro de una sola flor, toda nuestra vida cambiaría.",
+        "preguntas": [
+            "¿Cómo apreciar las pequeñas cosas?",
+            "¿Por qué ver los milagros en lo cotidiano cambia la vida?",
+            "¿Cómo puedo encontrar belleza en lo simple?"
+        ]
+    },
+    {
+        "cita": "Es mejor viajar bien que llegar.",
+        "preguntas": [
+            "¿Por qué es importante disfrutar el camino?",
+            "¿Es más importante el proceso que el destino?",
+            "¿Cómo puedo aprender a valorar el viaje?"
+        ]
+    },
+    {
+        "cita": "Un hombre no se llama sabio solo porque habla y vuelve a hablar.",
+        "preguntas": [
+            "¿Qué define a una persona sabia?",
+            "como ser sabio",
+            "como ser una persona sabia",
+            "¿Es la sabiduría solo palabras?",
+            "¿Cómo puedo distinguir la verdadera sabiduría?"
+        ]
+    },
+    {
+        "cita": "Al final, solo tres cosas son importantes: cuánto amaste, cuán suavemente viviste y cuán graciosamente dejaste ir cosas que no son para ti.",
+        "preguntas": [
+            "¿Cómo puedo amar más en mi vida?",
+            "¿Qué significa vivir suavemente?",
+            "¿Cómo dejar ir lo que no es para mí?"
+        ]
+    },
+    {
+        "cita": "No te apresures a nada. Cuando sea el momento adecuado, sucederá.",
+        "preguntas": [
+            "¿Por qué es importante no apresurarse?",
+            "¿Cómo saber cuándo es el momento adecuado?",
+            "¿Qué significa tener paciencia en la vida?"
+        ]
+    },
+    {
+        "cita": "Cuando duele, observa. La vida está tratando de enseñarte algo.",
+        "preguntas": [
+            "¿Qué debo aprender del dolor?",
+            "¿Cómo puedo observar mis experiencias dolorosas?",
+            "¿Por qué el dolor es parte del aprendizaje?"
+        ]
+    },
+    {
+        "cita": "Un momento puede cambiar un día, un día puede cambiar una vida, y una vida puede cambiar el mundo.",
+        "preguntas": [
+            "¿Cómo puede un momento cambiar mi vida?",
+            "¿Qué puedo hacer hoy para impactar el futuro?",
+            "¿Por qué los pequeños momentos son importantes?"
+        ]
+    },
+    {
+        "cita": "El problema es que crees que tienes tiempo.",
+        "preguntas": [
+            "¿Cómo puedo aprovechar mejor mi tiempo?",
+            "como tener mas tiempo",
+            "¿Por qué a menudo creemos que hay tiempo suficiente?",
+            "¿Qué significa vivir en el presente?"
+        ]
+    },
+    {
+        "cita": "Estar donde estás.",
+        "preguntas": [
+            "¿Cómo puedo estar más presente?",
+            "como estar",
+            "¿Qué significa estar en el momento?",
+            "¿Por qué es importante estar aquí y ahora?"
+        ]
+    },
+    {
+        "cita": "La felicidad no depende de lo que tienes o de quién eres. Se basa únicamente en lo que piensas.",
+        "preguntas": [
+            "¿Cómo influye mi pensamiento en mi felicidad?",
+            "como ser feliz",
+            "como encontrar la felicidad",
+            "¿Puede cambiar mi felicidad si cambio mis pensamientos?",
+            "¿Por qué la felicidad es una elección?"
+        ]
+    },
+    {
+        "cita": "No veré el tazón de otro intentando encontrar una falla; es un entrenamiento que se debe observar.",
+        "preguntas": [
+            "¿Cómo puedo evitar juzgar a los demás?",
+            "¿Por qué es importante observar en lugar de criticar?",
+            "¿Qué significa entrenar mi mente para ser más comprensivo?"
+        ]
+    },
+    {
+        "cita": "Cualquiera que sean las palabras que pronunciemos con cuidado para las personas, las oirán y serán influenciadas por ellas para bien o para mal.",
+        "preguntas": [
+            "¿Por qué mis palabras son poderosas?",
+            "¿Cómo puedo comunicarme de manera más positiva?",
+            "¿Qué impacto tienen mis palabras en los demás?"
+        ]
+    },
+    {
+        "cita": "Ardentemente haz hoy lo que se debe hacer. ¿Quién sabe? Mañana llega la muerte.",
+        "preguntas": [
+            "¿Qué debo hacer hoy para vivir plenamente?",
+            "¿Por qué es importante actuar ahora?",
+            "¿Cómo la muerte afecta mi perspectiva de la vida?"
+        ]
+    },
+    {
+        "cita": "Si los pensamientos de un hombre están nublados, si es imprudente y está lleno de engaños, ¿cómo puede usar la túnica amarilla? Quien sea maestro de su propia naturaleza, brillante, clara y verdadera, puede usar la túnica amarilla.",
+        "preguntas": [
+            "¿Cómo puedo ser maestro de mi propia naturaleza?",
+            "¿Qué significa tener claridad mental?",
+            "¿Por qué es importante ser honesto conmigo mismo?"
+        ]
+    },
+    {
+        "cita": "Como una flor fina, hermosa a la vista, pero sin aroma, las palabras finas son infructuosas en un hombre que no actúa de acuerdo con ellas.",
+        "preguntas": [
+            "¿Qué significa actuar según mis palabras?",
+            "¿Por qué mis acciones son más importantes que mis palabras?",
+            "¿Cómo puedo ser coherente entre lo que digo y lo que hago?"
+        ]
+    },
+    {
+        "cita": "Así como una serpiente arroja su piel, debemos despojarnos de nuestro pasado una y otra vez.",
+        "preguntas": [
+            "¿Cómo puedo liberarme de mi pasado?",
+            "soltar el pasado",
+            "¿Por qué es importante dejar ir viejas heridas?",
+            "¿Qué significa renovarse continuamente?"
+        ]
+    },
+    {
+        "cita": "Para vivir una vida pura y desinteresada, no debemos contarnos como propios en medio de la abundancia.",
+        "preguntas": [
+            "¿Cómo puedo vivir sin apego?",
+            "¿Por qué es importante ser desinteresado?",
+            "¿Qué significa vivir en abundancia sin poseer?"
+        ]
+    },
+    {
+        "cita": "En la separación se encuentra la mayor miseria del mundo.",
+        "preguntas": [
+            "¿Cómo afecta la separación a la felicidad?",
+            "¿Qué puedo hacer para sentirme más conectado?",
+            "¿Por qué la conexión es fundamental para la felicidad?"
+        ]
+    },
+    {
+        "cita": "Las personas con opiniones simplemente se molestan mutuamente.",
+        "preguntas": [
+            "¿Por qué las opiniones pueden causar conflictos?",
+            "¿Cómo puedo manejar mis propias opiniones?",
+            "¿Es posible convivir con diferentes puntos de vista?"
+        ]
+    },
+    {
+        "cita": "No sobrevalores lo que has recibido, ni envidies a otros. El que envidia a los demás no obtiene tranquilidad.",
+        "preguntas": [
+            "¿Cómo puedo dejar de sentir envidia?",
+            "¿Por qué es importante valorar lo que tengo?",
+            "¿Cómo la envidia afecta mi paz interior?"
+        ]
+    },
+    
+    {
+        "cita": "Todas las mañanas nacemos de nuevo. Lo que hacemos hoy es lo que más importa.",
+        "preguntas": [
+            "¿Cómo puedo empezar hoy con una mente fresca?",
+            "como vivir",
+            "¿Qué acciones son más importantes para mí hoy?",
+            "¿Cómo puedo vivir en el presente?"
+        ]
+    },
+    {
+        "cita": "El cambio nunca es doloroso. Solo la resistencia al cambio es dolorosa.",
+        "preguntas": [
+            "¿Qué cambios estoy evitando?",
+            "¿Cómo puedo aceptar mejor el cambio?",
+            "¿Qué aprendí de los cambios pasados?"
+        ]
+    },
+    {
+        "cita": "Medita... no te demores, para que no te arrepientas más tarde.",
+        "preguntas": [
+            "¿Por qué procrastino la meditación?",
+            "¿Qué me impide meditar hoy?",
+            "meditacion",
+            "¿Cómo puedo hacer de la meditación un hábito?"
+        ]
+    },
+    {
+        "cita": "Deleita en la meditación y la soledad. Céntrate, sé feliz. Eres un buscador.",
+        "preguntas": [
+            "¿Qué disfruto de la meditación?",
+            "¿Cómo puedo estar más cómodo conmigo mismo?",
+            "¿Qué estoy buscando en mi práctica?"
+        ]
+    },
+    {
+        "cita": "Medita. Vive puramente. Tranquilízate. Haz tu trabajo con maestría. Como la luna, ¡sal de detrás de las nubes! ¡Brilla!",
+        "preguntas": [
+            "¿Qué significa vivir puramente para mí?",
+            "¿Cómo puedo brillar en mis acciones diarias?",
+            "¿Cómo puedo mejorar mi enfoque?"
+        ]
+    },
+    {
+        "cita": "Si estás lo suficientemente callado, escucharás el flujo del universo. Sentirás su ritmo. Ve con este flujo. La felicidad está por delante. La meditación es clave.",
+        "preguntas": [
+            "¿Cómo puedo encontrar silencio en mi vida?",
+            "como meditar",
+            "¿Qué significa fluir con la vida?",
+            "¿Cómo me ayuda la meditación a ser feliz?"
+        ]
+    },
+    {
+        "cita": "La meditación trae sabiduría.",
+        "preguntas": [
+            "¿Qué sabiduría he ganado al meditar?",
+            "¿Cómo puedo aplicar esta sabiduría?",
+            "beneficio de meditar",
+            "¿Por qué es importante meditar?"
+        ]
+    },
+    {
+        "cita": "Si meditas seriamente, puro en mente y amable en los hechos, llevando una vida disciplinada en armonía con el Dharma, crecerás en gloria.",
+        "preguntas": [
+            "¿Cómo puedo vivir en armonía con el Dharma?",
+            "¿Qué significa para mí la disciplina en la meditación?",
+            "¿Cómo puedo crecer en mi práctica?"
+        ]
+    },
+    {
+        "cita": "Si meditas con seriedad, a través de disciplinas espirituales, puedes crear una isla que no será abrumada por ninguna inundación.",
+        "preguntas": [
+            "¿Cómo puedo encontrar estabilidad a través de la meditación?",
+            "¿Qué representa mi 'isla' personal?",
+            "¿Cómo puedo protegerme de las emociones abrumadoras?"
+        ]
+    },
+    {
+        "cita": "La resistencia es una de las disciplinas más difíciles, pero es para quienes la soportan la que lleva a la victoria final.",
+        "preguntas": [
+            "¿Cómo enfrento la resistencia en mi vida?",
+            "¿Qué victoria quiero lograr con disciplina?",
+            "¿Por qué debo perseverar?"
+        ]
+    },
+    {
+        "cita": "Evita los actos malvados como un hombre que ama la vida evita el veneno.",
+        "preguntas": [
+            "¿Qué venenos debo evitar?",
+            "como no ser malo",
+            "¿Cómo reconozco actos malvados?",
+            "¿Por qué es importante protegerme de lo negativo?"
+        ]
+    },
+    {
+        "cita": "Si algo vale la pena hacerlo, hazlo con todo tu corazón.",
+        "preguntas": [
+            "¿Qué acciones merecen mi dedicación?",
+            "¿Cómo puedo comprometerme más?",
+            "¿Qué significa para mí hacer algo con pasión?"
+        ]
+    },
+    {
+        "cita": "El caos es inherente a las cosas compuestas. Esfuérzate con diligencia.",
+        "preguntas": [
+            "¿Cómo encuentro orden en el caos?",
+            "¿Qué significa esforzarme diligentemente?",
+            "¿Cómo me ayuda la diligencia a avanzar?"
+        ]
+    },
+    {
+        "cita": "¿Qué es el mal? Matar es malvado, mentir es malvado, calumniar es malvado, el abuso es malvado, el chisme es malvado, la envidia es malvada, el odio es malvado; aferrarse a la falsa doctrina es malvado.",
+        "preguntas": [
+            "¿Qué define el mal?",
+            "¿Cómo reconozco el mal?",
+            "¿Qué puedo hacer contra el mal?"
+        ]
+    },
+    {
+        "cita": "Tiene que haber maldad para que el bien pueda probar su pureza.",
+        "preguntas": [
+            "¿Cómo se prueba el bien?",
+            "¿Qué enseña el mal sobre el bien?",
+            "¿Qué aprendo del mal?"
+        ]
+    },
+    {
+        "cita": "La ambición es como el amor, impaciente tanto por los retrasos como por los rivales.",
+        "preguntas": [
+            "¿Cómo manejo mi ambición?",
+            "¿La ambición me beneficia?",
+            "¿Qué rivalidades enfrento?"
+        ]
+    },
+    {
+        "cita": "La lengua, como un cuchillo afilado, mata sin derramar sangre.",
+        "preguntas": [
+            "¿Cómo afectan mis palabras?",
+            "¿Cómo comunico mis ideas?",
+            "comunicarme",
+            "¿Qué puedo mejorar en mi lenguaje?"
+        ]
+    },
+    {
+        "cita": "Aferrarse a la ira es como beber veneno y esperar que la otra persona muera.",
+        "preguntas": [
+            "¿Por qué me aferro a la ira?",
+            "¿Cómo suelto la ira?",
+            "¿Qué me enseña la ira?"
+        ]
+    },
+    {
+        "cita": "No serás castigado por tu ira; serás castigado por tu ira.",
+        "preguntas": [
+            "¿Cómo gestiono mi ira?",
+            "¿Qué consecuencias trae mi ira?",
+            "¿Cómo supero mi ira?"
+        ]
+    },
+    {
+        "cita": "Conquista la ira con el no servidor. Conquista la maldad con bondad. Conquista la mezquindad con generosidad.",
+        "preguntas": [
+            "¿Cómo practico la bondad?",
+            "¿Qué significa ser generoso?",
+            "¿Cómo sirvo a los demás?"
+        ]
+    },
+    {
+        "cita": "Tu peor enemigo no puede dañarte tanto como tus propios pensamientos sin vigilancia.",
+        "preguntas": [
+            "¿Qué pensamientos me dañan?",
+            "¿Cómo cambio mis pensamientos?",
+            "¿Qué técnicas uso para mejorar mi mentalidad?"
+        ]
+    },
+    {
+        "cita": "Aferrarse a la ira es como agarrar un carbón caliente con la intención de arrojárselo a otra persona.",
+        "preguntas": [
+            "¿Por qué me aferro a la ira?",
+            "¿Qué hago con mi ira?",
+            "¿Cómo me libero de la ira?"
+        ]
+    },
+    {
+        "cita": "La ira nunca desaparecerá mientras los pensamientos de resentimiento sean apreciados en la mente; la ira desaparecerá tan pronto como se olviden esos pensamientos.",
+        "preguntas": [
+            "¿Cómo olvido resentimientos?",
+            "¿Qué me ayuda a liberar la ira?",
+            "¿Cómo puede la meditación ayudarme?"
+        ]
+    },
+    {
+        "cita": "Calma tu mente y el alma hablará.",
+        "preguntas": [
+            "¿Cómo encuentro la calma mental?",
+            "¿Qué me dice mi alma?",
+            "¿Qué técnicas uso para calmarme?"
+        ]
+    },
+    {
+        "cita": "No tienes alma. Eres un alma. Tienes un cuerpo.",
+        "preguntas": [
+            "¿Qué significa ser un alma?",
+            "¿Cómo cuido mi cuerpo?",
+            "¿Qué es lo esencial en mí?"
+        ]
+    },
+    {
+        "cita": "Tu mente es algo poderoso. Cuando comiences a filtrarla con pensamientos positivos, tu vida comenzará a cambiar.",
+        "preguntas": [
+            "¿Cómo filtro mis pensamientos?",
+            "¿Qué pensamientos positivos cultivo?",
+            "¿Qué cambios veo en mi vida?"
+        ]
+    },
+    {
+        "cita": "Larga es la noche para el que está despierto.",
+        "preguntas": [
+            "¿Cómo aprovecho la vigilia?",
+            "¿Qué hago en la quietud de la noche?",
+            "¿Cómo enfrento la soledad?"
+        ]
+    },
+    {
+        "cita": "Pronto, el cuerpo se descarta. ¿Qué siente? Un registro inútil de madera, se encuentra en el suelo, ¿qué sabe? Tu peor enemigo no puede dañarte tanto como tus propios pensamientos, sin vigilancia. Pero una vez dominado, nadie puede ayudarte tanto, ni siquiera tu padre o tu madre.",
+        "preguntas": [
+            "¿Qué lecciones aprendo sobre el cuerpo?",
+            "¿Cómo controlo mis pensamientos?",
+            "¿Qué significa dominar la mente?"
+        ]
+    },
+    {
+        "cita": "No hay miedo para alguien cuya mente no está llena de deseos.",
+        "preguntas": [
+            "¿Qué deseos me generan miedo?",
+            "¿Cómo libero mis deseos?",
+            "¿Qué me da paz mental?"
+        ]
+    },
+    {
+        "cita": "Los pensamientos son como un canal de aguas, fluyen constantemente.",
+        "preguntas": [
+            "¿Cómo dirijo mis pensamientos?",
+            "¿Qué fluir constante observo en mí?",
+            "¿Cómo me afecta el flujo de pensamientos?"
+        ]
+    },
+    {
+        "cita": "Sin embargo, muchas palabras sagradas que lees, y muchas que hablas, ¿de qué sirve si no actúas sobre ellas?",
+        "preguntas": [
+            "¿Cómo aplico lo que aprendo?",
+            "¿Qué palabras uso para inspirarme?",
+            "¿Cómo traduzco mis palabras en acciones?"
+        ]
+    },
+    {
+        "cita": "Todo sufrimiento es causado por la ignorancia. La gente inflige dolor a los demás en la búsqueda egoísta de su propia felicidad o satisfacción.",
+        "preguntas": [
+            "¿Cómo puedo ser más consciente de mi impacto en los demás?",
+            "¿Qué significa sufrir por ignorancia?",
+            "¿Cómo puedo evitar causar dolor a otros en mi búsqueda de felicidad?"
+        ]
+    },
+    {
+        "cita": "Si supiera lo que sé sobre el poder de dar, no dejaría pasar una sola comida sin compartirla de alguna manera.",
+        "preguntas": [
+            "¿Qué significa realmente el poder de dar?",
+            "¿Cómo puedo integrar más el compartir en mi vida diaria?",
+            "¿Por qué es importante dar, incluso en pequeñas cantidades?"
+        ]
+    },
+    {
+        "cita": "Da, incluso si solo tienes un poco.",
+        "preguntas": [
+            "¿Por qué es significativo dar lo que tengo, aunque sea poco?",
+            "¿Cómo se siente al compartir algo, aunque sea mínimo?",
+            "¿Qué tipo de impacto puede tener un pequeño acto de generosidad?"
+        ]
+    },
+    {
+        "cita": "Solo pierdes lo que te aferras.",
+        "preguntas": [
+            "¿Qué cosas en mi vida estoy aferrándome que me están causando pérdida?",
+            "¿Cómo puedo aprender a soltar?",
+            "¿Por qué aferrarse puede ser perjudicial?"
+        ]
+    },
+    {
+        "cita": "Miles de velas pueden encenderse desde una sola vela, y la vida de la vela no se acortará. La felicidad nunca disminuye por ser compartida.",
+        "preguntas": [
+            "¿Cómo puede mi felicidad aumentar al compartirla?",
+            "¿Qué significa para mí compartir mi alegría con los demás?",
+            "¿Cómo puedo ser una fuente de luz para otros?"
+        ]
+    },
+    {
+        "cita": "Si enciendes una lámpara para otra persona, también alegrarás su camino.",
+        "preguntas": [
+            "¿Cómo puedo ayudar a iluminar el camino de alguien más?",
+            "¿Por qué es importante ayudar a los demás a encontrar su camino?",
+            "¿Qué significa contribuir al bienestar de los demás?"
+        ]
+    },
+    {
+        "cita": "Ni el fuego, ni el viento, el nacimiento, ni la muerte pueden borrar nuestras buenas obras.",
+        "preguntas": [
+            "¿Por qué las buenas acciones son eternas?",
+            "¿Cómo pueden mis acciones tener un impacto duradero?",
+            "¿Qué legado quiero dejar a través de mis acciones?"
+        ]
+    },
+    {
+        "cita": "Si no cuidamos a los demás cuando necesitan ayuda, ¿quién nos cuidará?",
+        "preguntas": [
+            "¿Cómo puedo ser más atento a las necesidades de los demás?",
+            "¿Por qué es importante cuidar de los otros?",
+            "¿Cómo se refleja la ayuda mutua en la comunidad?"
+        ]
+    },
+    {
+        "cita": "El odio no cesa con el odio, sino solo por el amor.",
+        "preguntas": [
+            "¿Por qué el amor es una respuesta más poderosa que el odio?",
+            "¿Cómo puedo cultivar el amor en lugar del odio en mi vida?",
+            "¿Qué significa amar en situaciones difíciles?"
+        ]
+    },
+    {
+        "cita": "Puedes buscar en todo el universo a alguien que merezca más tu amor y afecto que tú mismo, y esa persona no se encontrará en ningún lado. Tú mismo, tanto como cualquiera en todo el universo, mereces tu amor y afecto.",
+        "preguntas": [
+
+            "¿Cómo puedo aprender a amarme más a mí mismo?",
+            "como puedo amarme",
+            "como tener amor propio",
+            "¿Por qué es importante reconocer mi propio valor?",
+            "¿Cómo puede el amor propio mejorar mis relaciones con los demás?"
+        ]
+    },
+    {
+        "cita": "El verdadero amor nace de la comprensión.",
+        "preguntas": [
+            "¿Qué significa comprender a alguien profundamente?",
+            "¿Cómo puedo practicar la comprensión en mis relaciones?",
+            "¿Por qué la comprensión es esencial para el amor verdadero?"
+        ]
+    },
+    {
+        "cita": "Si tu compasión no incluye a ti mismo, está incompleta.",
+        "preguntas": [
+            "¿Cómo puedo ser compasivo conmigo mismo?",
+            "¿Por qué es importante incluirme en mi compasión?",
+            "¿Qué significa tener una compasión equilibrada?"
+        ]
+    },
+    {
+        "cita": "Tener compasión por todos los seres, ricos y pobres.",
+        "preguntas": [
+            "¿Cómo puedo cultivar la compasión hacia todos, independientemente de su situación?",
+            "¿Por qué es importante ver a todos los seres como iguales?",
+            "¿Cómo puede la compasión cambiar mi percepción del mundo?"
+        ]
+    },
+    {
+        "cita": "Enseña esta triple verdad a todos: un corazón generoso, un discurso amable y una vida de servicio y compasión son las cosas que renuevan a la humanidad.",
+        "preguntas": [
+            "¿Cómo puedo practicar la generosidad en mi vida diaria?",
+            "¿Qué significa hablar con amabilidad?",
+            "¿Por qué el servicio a los demás es vital para la humanidad?"
+        ]
+    },
+    {
+        "cita": "A medida que la lluvia cae por igual sobre el justo y el injusto, no cargues tu corazón con juicio, sino que deja que tu amabilidad llueva por igual.",
+        "preguntas": [
+            "¿Cómo puedo ser más amable en situaciones difíciles?",
+            "¿Por qué es importante evitar el juicio?",
+            "¿Cómo puede la amabilidad influir en mis interacciones diarias?"
+        ]
+    },
+    {
+        "cita": "Por el bien de los muchos, por la felicidad de los muchos, actúa con compasión hacia el mundo.",
+        "preguntas": [
+            "¿Cómo puedo contribuir a la felicidad de los demás?",
+            "¿Qué significa actuar con compasión a gran escala?",
+            "¿Cómo la compasión beneficia a la comunidad?"
+        ]
+    },
+    {
+        "cita": "Cualquiera que sean los seres vivos—ya sean débiles o fuertes, largos, robustos o de tamaño mediano, cortos, pequeños, grandes, visibles o invisibles, aquellos que viven lejos o cerca, aquellos que nacen y los que aún no han nacido—todos los seres tienen mentes que pueden ser felices.",
+        "preguntas": [
+            "¿Cómo puedo ser más compasivo hacia todos los seres vivos?",
+            "¿Por qué es importante reconocer la capacidad de felicidad en todos?",
+            "¿Cómo puede la compasión hacia los seres vivos enriquecer mi vida?"
+        ]
+    },
+    {
+        "cita": "Silencia al hombre enojado con amor. Silencia al hombre malhumorado con amabilidad. Silencia al avaro con generosidad. Silencia al mentiroso con la verdad.",
+        "preguntas": [
+            "¿Cómo puedo responder al enojo con amor?",
+            "¿Por qué es importante ser amable en situaciones de conflicto?",
+            "¿Qué significa ser generoso y honesto ante los demás?"
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+]

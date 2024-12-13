@@ -1,0 +1,43 @@
+// tranquilidad
+[
+    {
+        "cita": "Si quieres volar, renuncia a todo lo que te pesa.",
+        "preguntas": [
+            "¿Qué cargas debo soltar?",
+            "¿Cómo me libero de lo que me pesa?",
+            "¿Qué significa volar para mí?"
+        ]
+    },
+    {
+        "cita": "Detente, detente. No hables. La verdad definitiva ni siquiera es algo que se puede pensar.",
+        "preguntas": [
+            "¿Cuándo debo detenerme?",
+            "¿Qué verdades siento sin necesidad de hablar?",
+            "¿Cómo encuentro el silencio interior?"
+        ]
+    },
+    {
+        "cita": "La paz viene de adentro. No la busques fuera.",
+        "preguntas": [
+            "¿Cómo cultivo la paz interna?",
+            "¿Qué me distrae de encontrar mi paz?",
+            "¿Qué prácticas me acercan a la paz?"
+        ]
+    },
+    {
+        "cita": "Aquellos que están libres de pensamientos resentidos seguramente encontrarán paz.",
+        "preguntas": [
+            "¿Qué resentimientos debo dejar ir?",
+            "¿Cómo reconozco mis pensamientos resentidos?",
+            "¿Qué beneficios trae la paz interior?"
+        ]
+    },
+    {
+        "cita": "Mejor que mil palabras huecas es una palabra que trae paz.",
+        "preguntas": [
+            "¿Qué palabras traen paz a mi vida?",
+            "¿Cómo elijo mis palabras con sabiduría?",
+            "¿Qué significa hablar con intención?"
+        ]
+    }
+]

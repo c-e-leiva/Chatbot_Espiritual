@@ -19,7 +19,7 @@
 6. [Ejecución](#ejecución)
 7. [Licencia](#licencia)
 
-## Descripción del Proyecto 🌟
+## Descripción del Proyecto
 
 El proyecto "Chatbot Espiritual" tiene como objetivo proporcionar una experiencia introspectiva y filosófica a los usuarios a través de citas de Buda, basadas en el dataset "Buddha Quotes with Sentiments". Este dataset incluye más de 100 citas de Buda junto con una clasificación de sentimientos asociados, lo que permite al chatbot ofrecer respuestas profundas y resonantes en relación a temas de vida, felicidad, sufrimiento y otros aspectos espirituales y reflexivos. 
 
